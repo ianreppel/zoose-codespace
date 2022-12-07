@@ -17,6 +17,8 @@ Many popular quantum packages (e.g. Braket, Cirq, Pennylane, pytket, Qiskit) are
 1. Give the repository a name and click _Create repository from template_.
 1. Click on _Code_ (green button), choose _Codespaces_, and click _Create codespace on master_ (green button) or hit the "+" sign (near the top).
 
+The Zoose Quantum Codespace is part of the [Qiskit ecosystem](https://github.com/qiskit-community/ecosystem).
+
 If you prefer to run a different Zoose flavour, just change the `image` in `.devcontainer/devcontainer.json` to the desired flavour, e.g. `databaseline/zoose-pytorch:3.1.1` and commit it to your own repository.
 In that case, you can also choose the [Zoose PyTorch Codespace](https://github.com/ianhellstrom/zoose-pytorch-codespace) template.
 
