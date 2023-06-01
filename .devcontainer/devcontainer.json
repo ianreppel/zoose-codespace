@@ -15,7 +15,6 @@
                 "ms-toolsai.jupyter-keymap",
                 "ms-toolsai.jupyter-renderers",
                 "ms-toolsai.vscode-jupyter-powertoys",
-                "ms-pyright.pyright",
                 "ms-vscode.references-view"
             ]
         }
