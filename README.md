@@ -7,7 +7,7 @@ You can either try [Zoose Quantum](https://github.com/ianhellstrom/zoose#zoose-q
 ## Try Zoose Quantum
 Click on _Use this template_ and choose _Open in codespace_
 
-You will be running [Zoose Quantum](https://databaseline.tech/zoose-2.0/#zoose-quantum) in a GitHub Codespace, straight from this repository.
+You will be running [Zoose Quantum](https://ianhellstrom.org/zoose-2.0/#zoose-quantum) in a GitHub Codespace, straight from this repository.
 This is best if you want to give Zoose Quantum a whirl but do not intend to save your work in your own account.
 Many popular quantum packages (e.g. Braket, Cirq, Pennylane, pytket, Qiskit) are already installed and ready to be used from VSCode, no installation required.
 
