@@ -1,6 +1,6 @@
 {
     "name": "Zoose Quantum",
-    "image": "databaseline/zoose-quantum:4.4.0",
+    "image": "databaseline/zoose-quantum:5.0.0",
     "features": {
         "ghcr.io/devcontainers/features/node:1": {
             "version": "none"
